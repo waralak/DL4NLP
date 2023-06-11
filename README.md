@@ -1,5 +1,7 @@
-# DL4NLP
+# DL4NLP Homework
 
-HW #1 : 
+HW1 : [CodaLab HW1](https://codalab.lisn.upsaclay.fr/competitions/12240)
 
-HW #2 : https://codalab.lisn.upsaclay.fr/competitions/786#participate
+HW2 : [CodaLab HW2](https://codalab.lisn.upsaclay.fr/competitions/786)
+
+HW3 : [CodaLab HW3](https://codalab.lisn.upsaclay.fr/competitions/642)
