@@ -2,8 +2,9 @@
 
 Deep Learning for Natural Language Processing 2023
 
-HW1 : [CodaLab HW1](https://codalab.lisn.upsaclay.fr/competitions/12240)
-
-HW2 : [CodaLab HW2](https://codalab.lisn.upsaclay.fr/competitions/786)
-
-HW3 : [CodaLab HW3](https://codalab.lisn.upsaclay.fr/competitions/642)
+No. HW | Task in CodaLab | Metrics | Date Submission | User Name
+--- | --- | --- | --- |--- 
+1 | Transliteration task [CodaLab link](https://codalab.lisn.upsaclay.fr/competitions/12240) | Accuracy | 67.38 (15th) | 04/10/23 | wkpn 
+2 | Argument Mining Competition [CodaLab link](https://codalab.lisn.upsaclay.fr/competitions/786) |  F1 Stance Detection, F1 Premise Classification  |  0.4768 (89), 0.4662 (87) | 04/24/23 | wkpn 
+3 | RUSSE 2022 Russian Text Detoxification Based on Parallel Corpora [CodaLab link](https://codalab.lisn.upsaclay.fr/competitions/642) | Joint score | 0.56 (46) | 05/14/23 | wkpn 
+--- | --- | --- | --- |--- 
