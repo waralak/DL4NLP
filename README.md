@@ -1,6 +1,6 @@
 # DL4NLP Homework
 
-Deep Learning for Natural Language Processing 2023
+The course works for Deep Learning for Natural Language Processing (2023)
 
 No. HW | Task in CodaLab | Metrics | Score | Date Submission | User Name
 --- | --- | --- | --- |--- |--- 
